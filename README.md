@@ -1,4 +1,4 @@
-# Medical Speech-to-Text Transcription
+# AI-Assisted-Surgical-Documentation
 
 This project solves the **double summary problem** and the **rerun problem** by using **session state** to store the summary and PDF file path. It leverages the **Crystalcareai/Whisper-Medicalv1** model for accurate medical speech-to-text transcription and integrates with **Google Gemini** for structured summarization.
 
