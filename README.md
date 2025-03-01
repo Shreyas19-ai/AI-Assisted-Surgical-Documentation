@@ -20,7 +20,29 @@ AI-Assisted Surgical Documentation is an advanced system designed to automate an
 
 ## Prerequisites
 - You need to install ffmpeg on your device before running this script
-- Also add it to that System variables Path
+- Also add it to the System Environment Variables Path
+
+### Steps to Install ffmpeg and Set Up Environment Variables:
+
+1. **Download ffmpeg:**
+   - Visit the official ffmpeg website: [ffmpeg.org](https://ffmpeg.org/download.html)
+   - Download the appropriate version for your operating system.
+
+2. **Extract the files:**
+   - Extract the downloaded ffmpeg ZIP file to a desired location (e.g., `C:\ffmpeg`).
+
+3. **Add ffmpeg to System Environment Variables:**
+   - Open **System Properties** → **Advanced** → **Environment Variables**.
+   - In **System Variables**, find `Path` and click **Edit**.
+   - Click **New** and add the path to the `bin` folder inside ffmpeg (e.g., `C:\ffmpeg\bin`).
+   - Click **OK** to save changes.
+
+4. **Verify Installation:**
+   - Open **Command Prompt** and type:
+     ```bash
+     ffmpeg -version
+     ```
+   - If installed correctly, it will display the ffmpeg version details.
 
 ## Installation
 1. Clone the repository:
