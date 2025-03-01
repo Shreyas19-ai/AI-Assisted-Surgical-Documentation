@@ -62,8 +62,8 @@ This project solves the **double summary problem** and the **rerun problem** by 
 This project is licensed under the MIT License.
 
 ---
-**Contributors:**
-Pankaja Raut (@your-github
-Sakshi Bandbe
-Anoushka Joshi
+## Contributors
+- [Shreyas Ghadigaonkar](https://github.com/Shreyas19-ai)
+- [John Doe](https://github.com/johndoe)
+- [Jane Smith](https://github.com/janesmith)
 
