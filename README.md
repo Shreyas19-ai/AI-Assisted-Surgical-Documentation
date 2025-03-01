@@ -80,9 +80,9 @@ AI-Assisted Surgical Documentation is an advanced system designed to automate an
 ```
 
 ## Future Enhancements
-- Implement **real-time transcription**
-- Support **multi-language** medical transcriptions
-- Improve **data visualization** for structured outputs
+- Web App Deployment for seamless accessibility
+- EHR Integration with custom APIs for structured data retrieval
+- Enhanced AI Model for faster and more accurate medical transcription
 
 ## License
 This project is licensed under the MIT License.
