@@ -18,6 +18,9 @@ AI-Assisted Surgical Documentation is an advanced system designed to automate an
 - **FPDF** (for PDF generation)
 - **SoundFile & Torch** (for handling audio files)
 
+## Prerequisites
+- You need to install ffmpeg on your device before running this script
+- Also add it to that System variables Path
 
 ## Installation
 1. Clone the repository:
