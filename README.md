@@ -18,11 +18,14 @@ AI-Assisted Surgical Documentation is an advanced system designed to automate an
 - **FPDF** (for PDF generation)
 - **SoundFile & Torch** (for handling audio files)
 
-## Prerequisites
+Prerequisites
+
 Before running this application, you need to install FFmpeg and add it to the system PATH variable.
 
 Installing FFmpeg
+
 Windows Users:
+
 Download FFmpeg from https://ffmpeg.org/download.html.
 
 Extract the ZIP file to a location like C:\ffmpeg.
@@ -30,6 +33,29 @@ Extract the ZIP file to a location like C:\ffmpeg.
 Inside the extracted folder, go to the "bin" directory (e.g., C:\ffmpeg\bin).
 
 Add this path to the System PATH variable:
+
+Press Win + R, type sysdm.cpl, and press Enter.
+
+Go to the Advanced tab → Click Environment Variables.
+
+Under System Variables, find Path, click Edit, then New, and add C:\ffmpeg\bin.
+
+Click OK and close all windows.
+
+Verify installation by running this command in Command Prompt:
+
+ffmpeg -version
+
+If FFmpeg is installed correctly, it will display the version details.
+
+Linux/Mac Users:
+
+Run the following command in the terminal:
+
+sudo apt install ffmpeg  # For Ubuntu/Debian
+brew install ffmpeg  # For macOS (using Homebrew)
+
+Now, your system is ready to run the application! 🚀
 
 ## Installation
 1. Clone the repository:
