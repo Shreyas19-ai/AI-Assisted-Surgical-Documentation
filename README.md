@@ -64,6 +64,7 @@ This project is licensed under the MIT License.
 ---
 ## Contributors
 - [Shreyas Ghadigaonkar](https://github.com/Shreyas19-ai)
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
+- [Pankaja Raut](https://github.com/pankajaraut)
+- [Sakshi Bandbe](https://github.com/janesmith)
+- [Anoushka Joshi](https://github.com/janesmith)
 
