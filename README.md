@@ -1,6 +1,6 @@
 # AI-Assisted-Surgical-Documentation
 
-This project solves the **double summary problem** and the **rerun problem** by using **session state** to store the summary and PDF file path. It leverages the **Crystalcareai/Whisper-Medicalv1** model for accurate medical speech-to-text transcription and integrates with **Google Gemini** for structured summarization.
+AI-Assisted Surgical Documentation is an advanced system designed to automate and streamline the documentation process in surgical procedures. Using AI-driven speech-to-text transcription and structured summarization, the system captures key details from surgeons' conversations and generates accurate, structured medical reports.
 
 ## Features
 - Converts medical speech to text using **Whisper-Medicalv1**
