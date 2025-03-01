@@ -65,6 +65,6 @@ This project is licensed under the MIT License.
 ## Contributors
 - [Shreyas Ghadigaonkar](https://github.com/Shreyas19-ai)
 - [Pankaja Raut](https://github.com/pankajaraut)
-- [Sakshi Bandbe](https://github.com/janesmith)
+- [Sakshi Bandbe](https://github.com/Sakshi4Med)
 - [Anoushka Joshi](https://github.com/02Anoushka)
 
